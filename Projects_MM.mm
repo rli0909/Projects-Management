@@ -6,7 +6,7 @@
 <icon BUILTIN="full-2"/>
 <node CREATED="1531939030679" ID="ID_123637023" MODIFIED="1531939042114" TEXT="Unsolved Problem">
 <node CREATED="1531939398974" ID="ID_1246485749" MODIFIED="1531939407067" TEXT="Data Link Error Message">
-<node CREATED="1531939479474" FOLDED="true" ID="ID_1321939370" MODIFIED="1531939686163" TEXT="H:\Work UCS\Datalink">
+<node CREATED="1531939479474" FOLDED="true" ID="ID_1321939370" MODIFIED="1531945478249" TEXT="H:\Work UCS\Datalink">
 <icon BUILTIN="folder"/>
 <node CREATED="1531939521272" ID="ID_246804062" MODIFIED="1531939596117" TEXT="Secondary Email DataLink Error Message.JPG"/>
 </node>
@@ -17,8 +17,16 @@
 <icon BUILTIN="full-1"/>
 <node CREATED="1531938619112" ID="ID_404234566" MODIFIED="1531938675862" TEXT="Unsolved Problem">
 <node CREATED="1531938678504" ID="ID_1700886563" LINK="../../Work%20UCS/DocStar_Files/Western%20Oregon%20University%20Mail%20-%20Question%20about%20current%20filing%20process%20workflow.pdf" MODIFIED="1531938951384" TEXT="Copy data from form 1 to form 2"/>
-<node CREATED="1531938707497" ID="ID_1824539068" MODIFIED="1531939006294" TEXT="Email task doesn&apos;t work in expected way">
-<node CREATED="1531938986004" ID="ID_1171132700" MODIFIED="1531938999354" TEXT="DocStar Live Chat"/>
+<node CREATED="1531938707497" ID="ID_1824539068" MODIFIED="1531945431375" TEXT="Email task doesn&apos;t work in expected way">
+<attribute_layout NAME_WIDTH="33" VALUE_WIDTH="33"/>
+<node CREATED="1531938986004" ID="ID_1171132700" MODIFIED="1531945306514" TEXT="DocStar Live Chat">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1531945316344" ID="ID_1067550462" MODIFIED="1531945415261" TEXT="waiting for feedback 7/18/2018 1:00 pm">
+<font NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="idea"/>
+</node>
+</node>
+<node CREATED="1531945447365" ID="ID_1568862827" MODIFIED="1531945462061" TEXT="Could be sth. wrong on our side"/>
 </node>
 </node>
 </node>
